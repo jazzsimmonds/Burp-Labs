@@ -1,4 +1,2 @@
 # Blind SQLi
 
-
-

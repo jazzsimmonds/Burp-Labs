@@ -1,2 +1,2 @@
-# Error-Based SQLi
+# Error Based SQLi
 

